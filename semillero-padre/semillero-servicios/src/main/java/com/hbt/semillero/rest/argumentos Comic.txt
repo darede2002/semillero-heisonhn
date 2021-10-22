@@ -1,0 +1,4 @@
+String nombre, String editorial, TematicaEnum tematicaEnum, String coleccion, Integer numeroPaginas, BigDecimal precio, String autores, Boolean color, Integer cantidad
+
+EstadoEnum estado
+TematicaEnum tematica
